@@ -27,5 +27,5 @@ https://drive.google.com/file/d/1FuqKqikaOZ1NWdldrAkpzDUX11wA7JZP/view?usp=shari
 
 **Institution:** School Massage Specialization: «Masseur» Duration, Years: 1.2years Year of graduation/City/ Country: 2007/Zaporizhzhya/ Ukraine
 ### English
-**for commit 2: A2**
+**Level: A2**
 *American English Centrer Study: English (Elementary) Duration, Years: 1 year Year of graduation/City/ Country: 2015/ Zaporizhzhya/ Ukraine*
