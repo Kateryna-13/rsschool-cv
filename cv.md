@@ -1,7 +1,6 @@
 ## Kateryna Rakus
 
 ### Contacts
-for commit 1
 - __Email__: catrine.brusnika@gmail.com
 - __Telephone__: +38(099)222-68-22
 
