@@ -15,11 +15,11 @@ I drive car, but not very well so far.
 ### Skills
 I have knowledge on C++, C#, Windows Forms, ADO.NET, SQL (MS SQL Server). I have some git skills also. At the moment I study WPF, CSS, HTML and JavaScript
 ### Code samples
-[Code_sample1](https://github.com/Kateryna-13/delivery-food.git)
-[Code_sample2](https://drive.google.com/file/d/13zpb05Su4ir1zJOpEYJZw0G1JRfOaQzl/view?usp=sharing)
-[Code_sample3](https://drive.google.com/file/d/1pjY00JZ634kPSiNZhJoGNA9Z_X4lAsH5/view?usp=sharing)
-[Code_sample4](https://drive.google.com/file/d/1RzxMQ_gs0WQBbFw_wbCNMCXNTPRp_7X6/view?usp=sharing)
-[Code_sample5](https://drive.google.com/file/d/1FuqKqikaOZ1NWdldrAkpzDUX11wA7JZP/view?usp=sharing)
+[Code_sample1](https://github.com/Kateryna-13/delivery-food.git)  
+[Code_sample2](https://drive.google.com/file/d/13zpb05Su4ir1zJOpEYJZw0G1JRfOaQzl/view?usp=sharing)  
+[Code_sample3](https://drive.google.com/file/d/1pjY00JZ634kPSiNZhJoGNA9Z_X4lAsH5/view?usp=sharing)  
+[Code_sample4](https://drive.google.com/file/d/1RzxMQ_gs0WQBbFw_wbCNMCXNTPRp_7X6/view?usp=sharing)  
+[Code_sample5](https://drive.google.com/file/d/1FuqKqikaOZ1NWdldrAkpzDUX11wA7JZP/view?usp=sharing)  
 
 ### Education
 **Institution:** Berdyansk University of Management and Business Specialization: Bachelor of Accounting and Auditing Duration, Years: 4years Year of graduation/City/ Country: 2012/Berdyansk/ Ukraine
