@@ -1,5 +1,5 @@
 header {
-	background: url(../img/1.jpg) no-repeat center top / cover;/*фоновая картинка неподвижная на весь экран*/
+	background: url(img/1.jpg) no-repeat center top / cover;/*фоновая картинка неподвижная на весь экран*/
 	background-attachment: fixed; /*прокручивание фона отключено*/
 	width: 100%; /*ширина*/
     height: 100vh; /*высота*/
