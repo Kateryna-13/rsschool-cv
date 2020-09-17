@@ -198,7 +198,7 @@ nav li a:hover{
 }
 
 .news .left{
-    background:url('../img/github.jpg') no-repeat;
+    background:url(img/github.jpg) no-repeat;
 }
 
 .news .right{
@@ -208,13 +208,13 @@ nav li a:hover{
 .news .news-img1{
 	width: 100%;/*ширина*/
 	height: 100%;/*высота*/
-	background:url('../img/news-11.jpg') no-repeat;/*фоновая картинка без повторений*/
+	background:url(img/news-11.jpg) no-repeat;/*фоновая картинка без повторений*/
 	background-size: cover;/*на всю область*/
 }
 .news .news-img2{
     width: 100%;/*ширина*/
 	height: 100%;/*высота*/
-	background:url('../img/github.jpg') no-repeat 0px -70px;/*фоновая картинка без повторений*/
+	background:url(img/github.jpg) no-repeat 0px -70px;/*фоновая картинка без повторений*/
     background-size: cover;/*на всю область*/
 }
 .news-txt{
@@ -348,7 +348,7 @@ nav li a:hover{
 }
 
 .key-feature {
-    background: url('../img/2.jpg') no-repeat;
+    background: url(img/2.jpg) no-repeat;
     background-size: cover;
     background-attachment: fixed;/*будет ли прокручиваться фоновое изображение вместе с содержимым элемента*/
     height: 1050px;
@@ -451,7 +451,7 @@ nav li a:hover{
 }
 
 .contacts{
-    background: url('../img/3.jpg') no-repeat;
+    background: url(img/3.jpg) no-repeat;
     background-size: cover;
     background-attachment: fixed;
     height: 900px;
